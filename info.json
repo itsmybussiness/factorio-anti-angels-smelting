@@ -1,0 +1,13 @@
+{
+  "name": "antiangelssmelting",
+  "version": "0.1",
+  "factorio_version": "0.16",
+  "title": "Anti Angel's Smelting",
+  "author": "itsmybussiness",
+  "contact": "",
+  "description": "Re-enable recipes which disabled by Angel's Smelting mod.",
+  "dependencies": [
+	"base >= 0.16.0",
+	"angelssmelting >= 0.4.4"
+	]
+}
